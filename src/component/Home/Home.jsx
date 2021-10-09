@@ -8,7 +8,7 @@ class Home extends Component {
             <img
               className="rounded slide"
               alt="ImageBigHome"
-              src="gambar/imghome.png"
+              src="gambar/imgHeader.jpg"
               height="400"
             />
           </div>
@@ -18,7 +18,7 @@ class Home extends Component {
             <div className="col-md-12">
               <div className="alert alert-danger danger" role="alert">
                 <p className="text-white text-center">
-                  A simple success alert—check it out!
+                  A simple success, check it out!
                 </p>
               </div>
             </div>
@@ -92,7 +92,7 @@ class Home extends Component {
               <img
                 className="rounded slide "
                 alt="MiniImage"
-                src="gambar/ImgMini.jpg"
+                src="gambar/gambar1.jpg"
                 height="236"
                 width="100%"
               />
@@ -100,7 +100,7 @@ class Home extends Component {
               <img
                 className="rounded "
                 alt="ImageHome"
-                src="gambar/imghome.png"
+                src="gambar/gambar2.jpg"
                 height="236"
                 width="100%"
               />
