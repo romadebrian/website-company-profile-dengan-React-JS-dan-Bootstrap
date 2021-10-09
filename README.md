@@ -6,7 +6,9 @@ sumber tutorial : https://belajarreactjs.com/belajar-boostrap-membuat-website-co
 
 Versi React dan Bootstrap yang di pakai untuk project ini \
 react : ^17.0.2 \
-bootstrap : ^5.1.2 
+bootstrap : ^5.1.2 \
+
+### Note : setelah clone/download harus "npm install" dahulu sebelum "npm start", setelah itu tidak butuh "npm install" lagi
 
 # Getting Started with Create React App
 
