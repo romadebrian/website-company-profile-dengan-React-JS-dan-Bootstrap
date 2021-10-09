@@ -2,8 +2,9 @@
 
 ![Product Name Screen Shot][gambar-screenshot]
 
-sumber tutorial :
-https://belajarreactjs.com/belajar-boostrap-membuat-website-company-profile/
+sumber tutorial : https://belajarreactjs.com/belajar-boostrap-membuat-website-company-profile/ \
+react : ^17.0.2 \
+bootstrap : ^5.1.2 \
 
 # Getting Started with Create React App
 
