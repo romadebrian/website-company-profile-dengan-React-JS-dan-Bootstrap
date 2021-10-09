@@ -1,6 +1,6 @@
 # Screenshot
 
-[![Product Name Screen Shot][gambar-screenshot]]
+![Product Name Screen Shot][gambar-screenshot]
 
 # Getting Started with Create React App
 
