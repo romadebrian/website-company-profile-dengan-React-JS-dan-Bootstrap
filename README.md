@@ -3,8 +3,10 @@
 ![Product Name Screen Shot][gambar-screenshot]
 
 sumber tutorial : https://belajarreactjs.com/belajar-boostrap-membuat-website-company-profile/ \
+
+Versi React dan Bootstrap yang di pakai untuk project ini \
 react : ^17.0.2 \
-bootstrap : ^5.1.2 \
+bootstrap : ^5.1.2 
 
 # Getting Started with Create React App
 
